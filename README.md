@@ -1,3 +1,5 @@
+PUBLIC DOC FILE -> https://docs.google.com/document/d/1fo44hudMH5NW5CUYJmNOxb5HNSFD5DEyGpOs1plslFc/edit?usp=sharing
+
 # Breaking Bug - Machine Learning Repository
 
 <img src="https://images.prismic.io/ieeemuj/Zqu58B5LeNNTxuyE_BreakingBugBanner.png?auto=format,compress" alt="Breaking Bug Poster">
